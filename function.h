@@ -1,0 +1,1 @@
+void Print(char *s);
